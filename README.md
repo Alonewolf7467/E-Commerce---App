@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="![Uploading Screenshot (12).png…]()
-" alt="E-Commerce Website Preview">
+  <img src=" ![Screenshot (12)](https://github.com/user-attachments/assets/0e0ca538-ce32-4c53-a41e-553f314616ff)
+ " alt="E-Commerce Website Preview">
 </p>
 
 <h1 align="center">E-Commerce Website</h1>
@@ -10,7 +10,7 @@
 **1. Clone the repository:**
 
 ```bash
-
+git clone https://github.com/Alonewolf7467/E-Commerce-App.git
 ```
 
 **2. Install dependencies:**
