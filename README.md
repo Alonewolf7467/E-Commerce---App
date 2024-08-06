@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Alonewolf7467/E-Commerce-App/blob/main/Home%20UI.png
- " alt="E-Commerce Website Preview">
-</p>
-
 <h1 align="center">E-Commerce Website</h1>
 
 ## 1. Installation
