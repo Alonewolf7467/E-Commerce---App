@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=" ![Screenshot (12)](https://github.com/user-attachments/assets/0e0ca538-ce32-4c53-a41e-553f314616ff)
+  <img src="https://github.com/Alonewolf7467/E-Commerce-App/blob/main/Home%20UI.png
  " alt="E-Commerce Website Preview">
 </p>
 
